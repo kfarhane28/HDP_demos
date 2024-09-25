@@ -9,7 +9,7 @@
   <name>Hadoop Essentials: Example MapReduce</name>
   
   <properties>
-    <hadoop.version>2.7.1</hadoop.version>
+    <hadoop.version>3.3.6</hadoop.version>
   </properties>
 
   <repositories>
